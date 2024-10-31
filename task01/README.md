@@ -2,5 +2,5 @@
 
 Напишите в методе `codeWithNPE` код в результате работы которого случится `NullPointerException`
 ```java
-static void codeWithNPE()
+static void codeWithNPE() 
 ```
